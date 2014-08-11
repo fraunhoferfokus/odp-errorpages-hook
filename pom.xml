@@ -10,7 +10,7 @@
 	<artifactId>errorpages-hook</artifactId>
 	<packaging>war</packaging>
 	<scm>
-		<developerConnection>scm:git:git://github.com:fraunhoferfokus/odp-errorpages-hook.git</developerConnection>
+		<developerConnection>scm:git:git://gitlab.fokus.fraunhofer.de:odp-errorpages-hook</developerConnection>
 	</scm>
 	<name>Error Pages Hook</name>
 	<build>
